@@ -1,0 +1,9 @@
+  this sentence has some spaces before and after it
+
+  and it also     has interesting        spacing
+
+hello there
+
+  and it also     has interesting        spacing
+
+goodbye
